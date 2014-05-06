@@ -1,3 +1,11 @@
+3xx/Redirect: Coastline moved
+=============================
+Coastline repository is now available as an official Bazaar repository under HelenOS project.
+
+See `bzr://helenos.org/coastline <http://trac.helenos.org/browser/coastline>`_.
+
+
+
 HelenOS coastline: build POSIX applications for HelenOS
 =======================================================
 
